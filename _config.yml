@@ -12,7 +12,7 @@ title                    : "Lennart Trunk / My Profile"
 title_separator          : "-"
 name                     : &name "Lennart Trunk"
 description              : &description "Graduate student of Computer Engineering"
-url                      : https://thescarfix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scarfix.codes # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thescarfix/thescarfix.github.io"
 
@@ -54,14 +54,14 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "thescarfix"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "TheScarfix"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
